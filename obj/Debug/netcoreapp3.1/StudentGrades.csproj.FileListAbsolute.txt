@@ -1,0 +1,14 @@
+D:\ABDUL\Proj\NEW\StudentGrades\StudentGrades\bin\Debug\netcoreapp3.1\StudentGrades.exe
+D:\ABDUL\Proj\NEW\StudentGrades\StudentGrades\bin\Debug\netcoreapp3.1\StudentGrades.deps.json
+D:\ABDUL\Proj\NEW\StudentGrades\StudentGrades\bin\Debug\netcoreapp3.1\StudentGrades.runtimeconfig.json
+D:\ABDUL\Proj\NEW\StudentGrades\StudentGrades\bin\Debug\netcoreapp3.1\StudentGrades.runtimeconfig.dev.json
+D:\ABDUL\Proj\NEW\StudentGrades\StudentGrades\bin\Debug\netcoreapp3.1\StudentGrades.dll
+D:\ABDUL\Proj\NEW\StudentGrades\StudentGrades\bin\Debug\netcoreapp3.1\StudentGrades.pdb
+D:\ABDUL\Proj\NEW\StudentGrades\StudentGrades\obj\Debug\netcoreapp3.1\StudentGrades.csproj.AssemblyReference.cache
+D:\ABDUL\Proj\NEW\StudentGrades\StudentGrades\obj\Debug\netcoreapp3.1\StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+D:\ABDUL\Proj\NEW\StudentGrades\StudentGrades\obj\Debug\netcoreapp3.1\StudentGrades.AssemblyInfoInputs.cache
+D:\ABDUL\Proj\NEW\StudentGrades\StudentGrades\obj\Debug\netcoreapp3.1\StudentGrades.AssemblyInfo.cs
+D:\ABDUL\Proj\NEW\StudentGrades\StudentGrades\obj\Debug\netcoreapp3.1\StudentGrades.csproj.CoreCompileInputs.cache
+D:\ABDUL\Proj\NEW\StudentGrades\StudentGrades\obj\Debug\netcoreapp3.1\StudentGrades.dll
+D:\ABDUL\Proj\NEW\StudentGrades\StudentGrades\obj\Debug\netcoreapp3.1\StudentGrades.pdb
+D:\ABDUL\Proj\NEW\StudentGrades\StudentGrades\obj\Debug\netcoreapp3.1\StudentGrades.genruntimeconfig.cache

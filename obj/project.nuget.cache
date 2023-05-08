@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ffMy6se8wSZ3iFfw8BCa6G0apuiHiKol1DB1zVhsvxabb4K23PDFDMzPIpYsKG24gAQ+5femQJg9zG1SABOkAQ==",
+  "success": true,
+  "projectFilePath": "D:\\ABDUL\\Proj\\NEW\\StudentGrades\\StudentGrades\\StudentGrades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdul.talibov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
